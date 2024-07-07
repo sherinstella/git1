@@ -3,6 +3,7 @@ import './App.css'
 import watch from './images/watch.jpeg'
 
 
+
 export const Home = () => {
   return (
   
@@ -11,7 +12,7 @@ export const Home = () => {
 <div  className='x'>
 
   <div className='t'>
-    
+  
 <div classname="x">
 <center>
   <br></br><br></br><br></br><br></br><br></br><h1>WELCOME TO JEREN'S ACCESSORIES!!!</h1></center>
